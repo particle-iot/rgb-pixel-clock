@@ -75,6 +75,7 @@ The small board provided with the kit is the RGB Matrix Shield, as shown in thes
 
 The RGB Matrix Shield requires the [RGBMatrixPanel](https://github.com/pkourany/RGBmatrixPanel_IDE) library to function.  It can also be found [on the Build IDE](https://build.particle.io/libs/573f6d77cbc9f2b851000e04/tab/RGBmatrixPanel.cpp).
 
+To complete the RGB Pixel Clock kit, it is recommended to flash the RGBPongClock to your Particle device. However, the kit may also be used with the community supplied [Live Sports Scoreboard](https://community.particle.io/t/live-sports-scoreboard/19817) app.  Please feel free to use these or create your own to contribute back to the community!
 
 
 ### Troubleshooting
