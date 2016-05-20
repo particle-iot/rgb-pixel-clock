@@ -6,6 +6,8 @@ The RGB Pixel Clock is based on the latest (v4) version of the RGB Matrix Shield
 
 NOTE: The kit is not compatible with the older Spark Core.
 
+The RGB Pixel Clock Kit can be used stand-along with several community-created libraries (eg. RGB Pong Clock) and is included in the ![Word Clock (kit)](link) featured for the first time at the San Francisco 2016 Maker Faire.  
+
 
 ### Parts List
 You kit includes the following components:
