@@ -3,10 +3,15 @@
 ### Introdcutions
 
 ### Parts List
+![image](images/RGBShiedKit.jpg?raw=true "RGB Shield Kit")
+
+You kit includes the following components:
+
  - 32x32 RGB Display Panel
  - Display power plug
  - RGB Shield
  - DC Power Supply
+ - microSD card (blank)
 
 ### Assembly Guide
 (add pictures and descriptions)
