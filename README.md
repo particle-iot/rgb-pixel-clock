@@ -28,13 +28,13 @@ You kit includes the following components:
 If a new unconfigured Photon or Electron is used, the following startup guides are recommended:
 
 Photon - https://docs.particle.io/guide/getting-started/intro/photon/
+
 Electron - https://docs.particle.io/guide/getting-started/intro/electron/
 
 #The RGB Matrix Shield
 The small board provided with the kit is the RGB Matrix Shield, as shown in these top and bottom views:
 
 <img src="images/topview.JPG" width="300">
-
 <img src="images/bottomview.JPG" width="300">
 
 1. Assemble the shield-to-panel power plug by inserting both red wires into the "+" terminal of the screw terminal and tighening the screw to secure the wires.  Do the same with the black wires, inserting them into the "GND" terminal.  The completed assembly looks as follows:
