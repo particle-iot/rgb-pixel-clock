@@ -3,9 +3,9 @@
 ### Introdcutions
 
 ### Parts List
-![image](images/RGBShieldKit.JPG?raw=true "RGB Shield Kit")
-
 You kit includes the following components:
+
+<img src="images/RGBShieldKit.JPG" width="500">
 
  - 32x32 RGB Display Panel
  - Display power plug
@@ -15,6 +15,12 @@ You kit includes the following components:
 
 ### Assembly Guide
 (add pictures and descriptions)
+
+<img src="images/RGBShield1.JPG" width="500">
+<img src="images/RGBShield2.JPG" width="500">
+<img src="images/RGBShield3.JPG" width="500">
+<img src="images/RGBShieldFinal.JPG" width="500">
+
 
 ### Setup (programming guide)
 
