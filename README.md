@@ -3,7 +3,7 @@
 ### Introdcutions
 
 ### Parts List
-![image](images/RGBShiedKit.jpg?raw=true "RGB Shield Kit")
+![image](images/RGBShieldKit.JPG?raw=true "RGB Shield Kit")
 
 You kit includes the following components:
 
