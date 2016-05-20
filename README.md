@@ -44,7 +44,7 @@ The small board provided with the kit is the RGB Matrix Shield, as shown in thes
 
 NOTE: The Electron is longer than the shield board and some of its pins will "dangle" beyond the edged.  This is normal:
 
-<img src="images/electronside.JPG" width="300">
+<img src="images/Electronside.JPG" width="300">
 
 
 
