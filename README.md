@@ -20,7 +20,7 @@ You kit includes the following components:
  - DC Power Supply
  - microSD card (blank)
 
-NOT included in the kit but required:
+*NOT* included in the kit but required:
  - Particle Photon or Electron
 
 ### Assembly Guide
@@ -45,7 +45,7 @@ The small board provided with the kit is the RGB Matrix Shield, as shown in thes
 <img src="images/photon.JPG" width="300">
 <img src="images/electron.JPG" width="300">
 
-NOTE: The Electron is longer than the shield board and some of its pins will "dangle" beyond the edged.  This is normal:
+*NOTE*: The Electron is longer than the shield board and some of its pins will "dangle" beyond the edged.  This is normal:
 
 <img src="images/Electronside.JPG" width="300">
 
