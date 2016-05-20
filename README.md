@@ -38,37 +38,37 @@ The small board provided with the kit is the RGB Matrix Shield, as shown in thes
 <img src="images/bottomview.JPG" width="300">
 
 1. Assemble the shield-to-panel power plug by inserting both red wires into the "+" terminal of the screw terminal and tighening the screw to secure the wires.  Do the same with the black wires, inserting them into the "GND" terminal.  The completed assembly looks as follows:
-
-<img src="images/shieldpower.JPG" width="300">
-
+  
+  <img src="images/shieldpower.JPG" width="300">
+  
 2. Insert a Photon or Electron into the shield, making sure the USB connector is next to the microSD socket as shown below:
-
-<img src="images/photon.JPG" width="300">
-<img src="images/electron.JPG" width="300">
-
-**NOTE**: The Electron is longer than the shield board and some of its pins will "dangle" beyond the edged.  This is normal:
-
-<img src="images/Electronside.JPG" width="300">
-
+  
+  <img src="images/photon.JPG" width="300">
+  <img src="images/electron.JPG" width="300">
+  
+  **NOTE**: The Electron is longer than the shield board and some of its pins will "dangle" beyond the edged.  This is normal:
+  
+  <img src="images/Electronside.JPG" width="300">
+  
 3. Next, insert the provided microSD card into the socket.
-   IMPORTANT:  The microSD socket's card detect conflicts with the shield's normal operation if a microSD card is not inserted.  As such, a microSD must be inserted even if not used.
-
-<img src="images/sdinserted.JPG" width="300">
-
+   **IMPORTANT**:  The microSD socket's card detect conflicts with the shield's normal operation if a microSD card is not inserted.  As such, a microSD must be inserted even if not used.
+  
+  <img src="images/sdinserted.JPG" width="300">
+  
 4. Next, plug the RGB shield into the INPUT connector of the  RGB panel.  There are two connectors on the panel - an INPUT, identified as the one with the connector legend next to it, and an OUPUT, which is used to daisy chain (with an appropriate ribbon cable not supplied) to the INPUT of a second panel.
-
+  
   *IMPORTANT*: The RGB shield connector (underside of board) must be centered on the RGB panel receiving connector, as shown below:
-
-<img src="images/ShieldtoPanel.JPG" width="300">
-
+  
+  <img src="images/ShieldtoPanel.JPG" width="300">
+  
 5. Next, plug the shield power connector into the RGB panel power connector as shown below.
-
-<img src="images/finalhookup.JPG" width="300">
-
+  
+  <img src="images/finalhookup.JPG" width="300">
+  
 6. Finally, the shield and panel is powered by inserting the power supply connector into the barrel jack on the underside of the RGB shield.  Final assembly is shown below:
-
-<img src="images/RGBShieldFinal.JPG" width="300">
-
+  
+  <img src="images/RGBShieldFinal.JPG" width="300">
+  
 **NOTE**: The RGB Shield includes a small prototyping area with adjacent +5v and GND rails.
 
 ### Setup (programming guide)
