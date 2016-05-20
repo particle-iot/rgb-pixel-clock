@@ -16,10 +16,13 @@ You kit includes the following components:
 ### Assembly Guide
 (add pictures and descriptions)
 
-<img src="images/RGBShield1.JPG" width="500">
-<img src="images/RGBShield2.JPG" width="500">
-<img src="images/RGBShield3.JPG" width="500">
-<img src="images/RGBShieldFinal.JPG" width="500">
+<img src="images/RGBShield1.JPG" width="300">
+
+<img src="images/RGBShield2.JPG" width="300">
+
+<img src="images/RGBShield3.JPG" width="300">
+
+<img src="images/RGBShieldFinal.JPG" width="300">
 
 
 ### Setup (programming guide)
