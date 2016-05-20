@@ -73,6 +73,8 @@ The small board provided with the kit is the RGB Matrix Shield, as shown in thes
 
 ### Setup (programming guide)
 
+The RGB Matrix Shield requires the [RGBMatrixPanel](https://github.com/pkourany/RGBmatrixPanel_IDE) library to function.  It can also be found [on the Build IDE](https://build.particle.io/libs/573f6d77cbc9f2b851000e04/tab/RGBmatrixPanel.cpp).
+
 
 
 ### Troubleshooting
