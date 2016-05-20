@@ -41,11 +41,30 @@ The small board provided with the kit is the RGB Matrix Shield, as shown in thes
 2. Insert a Photon or Electron into the shield, making sure the USB connector is next to the microSD socket as shown below:
 
 <img src="images/photon.JPG" width="300">
+<img src="images/electron.JPG" width="300">
 
 NOTE: The Electron is longer than the shield board and some of its pins will "dangle" beyond the edged.  This is normal:
 
 <img src="images/Electronside.JPG" width="300">
 
+3. Next, insert the provided microSD card into the socket.
+   IMPORTANT:  The microSD socket's card detect conflicts with the shield's normal operation if a microSD card is not inserted.  As such, a microSD must be inserted even if not used.
+
+<img src="images/sdinserted.JPG" width="300">
+
+4. Next, plug the RGB shield into the INPUT connector of the  RGB panel.  There are two connectors on the panel - an INPUT, identified as the one with the connector legend next to it, and an OUPUT, which is used to daisy chain (with an appropriate ribbon cable not supplied) to the INPUT of a second panel.
+
+  IMPORTANT: The RGB shield connector (underside of board) must be centered on the RGB panel receiving connector, as shown below:
+
+<img src="images/ShieldtoPanel.JPG" width="300">
+
+5. Next, plug the shield power connector into the RGB panel power connector as shown below.
+
+<img src="images/finalhookup.JPG" width="300">
+
+6. Finally, the shield and panel is powered by inserting the power supply connector into the barrel jack on the underside of the RGB shield.  Final assembly is shown below:
+
+<img src="images/RGBShieldFinal.JPG" width="300">
 
 
 
@@ -53,13 +72,6 @@ which needs to be assembled first.
 
 (add pictures and descriptions)
 
-<img src="images/RGBShield1.JPG" width="300">
-
-<img src="images/RGBShield2.JPG" width="300">
-
-<img src="images/RGBShield3.JPG" width="300">
-
-<img src="images/RGBShieldFinal.JPG" width="300">
 
 
 ### Setup (programming guide)
