@@ -51,7 +51,7 @@ The small board provided with the kit is the RGB Matrix Shield, as shown in thes
   <img src="images/Electronside.JPG" width="300">
   
 3. Next, insert the provided microSD card into the socket.
-   **IMPORTANT**:  The microSD socket's card detect conflicts with the shield's normal operation if a microSD card is not inserted.  As such, a microSD must be inserted even if not used.
+  **IMPORTANT:  The microSD socket's card-detect hardware conflicts with the shield's normal operation if a microSD card is not inserted.  As such, a microSD MUST be inserted even if not used.**
   
   <img src="images/sdinserted.JPG" width="300">
   
