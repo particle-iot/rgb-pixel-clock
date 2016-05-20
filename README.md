@@ -4,7 +4,7 @@
 
 The RGB Pixel Clock is based on the latest (v4) version of the RGB Matrix Shield designed by @peekay123.  The shield allows a Particle Photon or Electron to interface directly with one or two (daisy chained) 32x32 RGB Matrix panels to display color images and text.  An onboard microSD socket allows images and files to be accessed from the Particle device to display, for example, animated GIF files and images on the RGB panel.  The RGB shield conveniently plugs directly into the back of the RGB Panel, providing a low-profile fit.
 
-NOTE: The kit is not compatible with the older Spark Core.
+**NOTE**: The kit is not compatible with the older Spark Core.
 
 The RGB Pixel Clock Kit can be used stand-along with several community-created libraries (eg. RGB Pong Clock) and is included in the [Word Clock (kit)](link) featured for the first time at the San Francisco 2016 Maker Faire.  
 
@@ -34,6 +34,7 @@ Electron - https://docs.particle.io/guide/getting-started/intro/electron/
 The small board provided with the kit is the RGB Matrix Shield, as shown in these top and bottom views:
 
 <img src="images/topview.JPG" width="300">
+
 <img src="images/bottomview.JPG" width="300">
 
 1. Assemble the shield-to-panel power plug by inserting both red wires into the "+" terminal of the screw terminal and tighening the screw to secure the wires.  Do the same with the black wires, inserting them into the "GND" terminal.  The completed assembly looks as follows:
@@ -45,7 +46,7 @@ The small board provided with the kit is the RGB Matrix Shield, as shown in thes
 <img src="images/photon.JPG" width="300">
 <img src="images/electron.JPG" width="300">
 
-*NOTE*: The Electron is longer than the shield board and some of its pins will "dangle" beyond the edged.  This is normal:
+**NOTE**: The Electron is longer than the shield board and some of its pins will "dangle" beyond the edged.  This is normal:
 
 <img src="images/Electronside.JPG" width="300">
 
@@ -56,7 +57,7 @@ The small board provided with the kit is the RGB Matrix Shield, as shown in thes
 
 4. Next, plug the RGB shield into the INPUT connector of the  RGB panel.  There are two connectors on the panel - an INPUT, identified as the one with the connector legend next to it, and an OUPUT, which is used to daisy chain (with an appropriate ribbon cable not supplied) to the INPUT of a second panel.
 
-  IMPORTANT: The RGB shield connector (underside of board) must be centered on the RGB panel receiving connector, as shown below:
+  *IMPORTANT*: The RGB shield connector (underside of board) must be centered on the RGB panel receiving connector, as shown below:
 
 <img src="images/ShieldtoPanel.JPG" width="300">
 
@@ -68,7 +69,7 @@ The small board provided with the kit is the RGB Matrix Shield, as shown in thes
 
 <img src="images/RGBShieldFinal.JPG" width="300">
 
-NOTE: The RGB Shield includes a small prototyping area with adjacent +5v and GND rails.
+**NOTE**: The RGB Shield includes a small prototyping area with adjacent +5v and GND rails.
 
 ### Setup (programming guide)
 
