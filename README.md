@@ -31,6 +31,8 @@ Electron - https://docs.particle.io/guide/getting-started/intro/electron/
 #The RGB Matrix Shield
 The small board provided with the kit is the RGB Matrix Shield, as shown in these top and bottom views:
 
+<img src="images/topview.JPG" width="300">
+<img src="images/bottomview.JPG" width="300">
 
 
 
