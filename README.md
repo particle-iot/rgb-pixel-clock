@@ -66,16 +66,16 @@ NOTE: The Electron is longer than the shield board and some of its pins will "da
 
 <img src="images/RGBShieldFinal.JPG" width="300">
 
-
-
-which needs to be assembled first.   
-
-(add pictures and descriptions)
-
-
+NOTE: The RGB Shield includes a small prototyping area with adjacent +5v and GND rails.
 
 ### Setup (programming guide)
 
+
+
 ### Troubleshooting
+
+- Ensure the Particle device is completely inserted into the RGB shield
+- Ensure the power connector (with red/black wires) is correctly connected to the screw terminals with red wires to "+" and black wires to "GND"
+- Ensure the RGB shield connector is correctly centered when inserted into the RGB panel connector
 
 Link to the community thread.
